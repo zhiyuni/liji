@@ -1,0 +1,16 @@
+body{
+	width: 1000px;
+	margin: 0 auto;
+}
+#header{
+	height: 50px;
+}
+#header .logo{
+	border: 1px solid blue;
+	margin-right: 100px; 
+}
+nav{
+	padding-left: 100px;
+	height: 50px;
+	line-height: 50px;
+}
